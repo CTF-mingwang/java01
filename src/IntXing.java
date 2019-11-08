@@ -20,7 +20,8 @@ public class IntXing {
 
     //格式化声明变量 与 输出错误信息
     public static void geShiHua() {
-        String str = String.format("%.2f%10d",20.3,10); //格式化声明变量
+        //使用占位符构建了一个字符串
+        String str = String.format("%.2f%10d",20.3,10);
         System.out.println(str); //打印输出
         System.err.println("我是bug,我怕谁！！！"); //输出错误信息
     }
