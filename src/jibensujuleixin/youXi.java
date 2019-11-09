@@ -1,3 +1,5 @@
+package jibensujuleixin;
+
 import java.util.Scanner;
 
 public class youXi {

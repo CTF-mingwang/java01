@@ -1,3 +1,5 @@
+package jibensujuleixin;
+
 public class IntXing {
     public static void main(String[] args) {
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~");

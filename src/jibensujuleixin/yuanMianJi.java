@@ -1,4 +1,4 @@
-//导入Scanner工具，以便使用
+package jibensujuleixin;//导入Scanner工具，以便使用
 import java.util.Scanner;
 public class yuanMianJi {
     public static void main(String[] args) {
